@@ -1,4 +1,4 @@
-# Org-Ideas
+# org-ideas
 
 Welcome to OBE:WDS's Organization Ideas Repo!
 
